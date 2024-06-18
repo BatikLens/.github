@@ -1,12 +1,13 @@
-## Hi there 👋
+# BATIKLENS 👋
+## Participant List
 
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+| ID            | Name                  | University                                     | Field       | Status  |
+|---------------|-----------------------|-------------------------------------------------|-------------|---------|
+| M312D4KX2388  | Apriliza Vina Hasanah | Universitas Sebelas Maret                       | ML          | [Active]|
+| M007D4KX2124  | Raafi Kurnia Desita   | Universitas Dian Nuswantoro                     | ML          | [Active]|
+| M007D4KX2741  | Zahirotul Maulida     | Universitas Dian Nuswantoro                     | ML          | [Active]|
+| C297D4KY1108  | Moh Yusril Prayoga    | Universitas Pembangunan Nasional Veteran Yogyakarta | CC      | [Active]|
+| C728D4KY0558  | Fadlan Arsy Fadilla   | Universitas Islam Syekh-Yusuf Tangerang         | CC          | [Active]|
+| A728D4KX3760  | Alfiana Tiara Putri   | Universitas Islam Syekh-Yusuf Tangerang         | MD          | [Active]|
+| A728D4KX3737  | Fenty Margitha Dewi   | Universitas Islam Syekh-Yusuf Tangerang         | MD          | [Active]|
 
