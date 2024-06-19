@@ -14,3 +14,19 @@
 | A728D4KX3760  | Alfiana Tiara Putri   | Universitas Islam Syekh-Yusuf Tangerang         | MD          | [Active]|
 | A728D4KX3737  | Fenty Margitha Dewi   | Universitas Islam Syekh-Yusuf Tangerang         | MD          | [Active]|
 
+## Abstract:
+Indonesian Batik, a symbol of heritage and tradition, faces a challenge: wearers often lack understanding of its intricate motifs, risking the loss of cultural significance. To combat this, we propose a mobile app to educate users on Batik's motifs, origins, and narratives, reigniting public interest and preserving its heritage.
+
+## Problem Statement:
+Indonesian Batik's cultural value is threatened by wearers' lack of understanding regarding motifs, origins, and narratives. Existing resources are inaccessible, hindering cultural preservation and appreciation.
+
+## Research Question:
+Can a mobile app effectively educate users on Batik motifs, bridging the gap between the public and Batik's cultural wealth?
+
+## Background Information:
+Indonesian Batik, a traditional cloth of immense cultural importance, embodies stories and craftsmanship. However, its cultural value diminishes as wearers lack understanding, with existing resources often inaccessible.
+
+## Why We Tackle the Problem:
+We recognize the urgency of preserving Indonesia's cultural heritage. By developing a user-friendly mobile app, we aim to bridge tradition and modernity, ensuring Batik's appreciation for generations to come.
+
+
