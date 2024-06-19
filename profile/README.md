@@ -1,4 +1,7 @@
 # BATIKLENS 👋
+
+<img src="https://storage.googleapis.com/dummy-model-buckets/images/BatikLens.png" />
+
 ## Team Members
 
 | ID            | Name                  | University                                     | Field       | Status  |
