@@ -14,6 +14,9 @@
 | A728D4KX3760  | Alfiana Tiara Putri   | Universitas Islam Syekh-Yusuf Tangerang         | MD          | [Active]|
 | A728D4KX3737  | Fenty Margitha Dewi   | Universitas Islam Syekh-Yusuf Tangerang         | MD          | [Active]|
 
+## Our Team
+<img src="https://storage.googleapis.com/testing-batikmodels/images/BatikLens%20Presentation.png" />
+
 ## Abstract:
 Indonesian Batik, a symbol of heritage and tradition, faces a challenge: wearers often lack understanding of its intricate motifs, risking the loss of cultural significance. To combat this, we propose a mobile app to educate users on Batik's motifs, origins, and narratives, reigniting public interest and preserving its heritage.
 
