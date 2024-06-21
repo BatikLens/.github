@@ -31,5 +31,6 @@ Indonesian Batik, a traditional cloth of immense cultural importance, embodies s
 
 ## Why We Tackle the Problem:
 We recognize the urgency of preserving Indonesia's cultural heritage. By developing a user-friendly mobile app, we aim to bridge tradition and modernity, ensuring Batik's appreciation for generations to come.
-
+<hr />
+<img src="https://storage.googleapis.com/testing-batikmodels/images/BatikLens%20Presentation%20(1).png" />
 
